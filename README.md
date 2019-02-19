@@ -9,7 +9,7 @@ If so, it will be shown.
 
 
 Example:
-Word to guess: acting
+Word to guess: acting \n
 Users guess: action
 Program shows after guess: acti**
 
